@@ -2,7 +2,7 @@
   "image": "/branding/images/Babylon_logo.png",
   "imageWidth": 256,
   "imageHeight": 256,
-  "bgColor": "#ffffff",
+  "bgColor": "#d1faff",
   "loadscreenText": "Babylon Game Starter\nLoading your game ...",
   "pwa": {
     "enabled": true,
@@ -35,7 +35,7 @@
     ]
   },
   "social": {
-    "title": "Babylon Game Starter",
+    "title": "Welcome to Skyland",
     "description": "A modular 3D browser game built with Babylon.js",
     "siteName": "Babylon Game Starter",
     "image": "/branding/screenshots/og-card.png",
