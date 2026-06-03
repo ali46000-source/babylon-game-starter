@@ -65,11 +65,11 @@ export const ASSETS = {
       height: 1.8,
       radius: 0.6,
       speed: {
-        inAir: 30.0,
-        onGround: 60.0,
-        boostMultiplier: 15.0
+        inAir: 90.0,
+        onGround: 110.0,
+        boostMultiplier: 50.0
       },
-      jumpHeight: 7.0,
+      jumpHeight: 50.0,
       rotationSpeed: 0.05, // radians
       rotationSmoothing: 0.2,
       animationBlend: 200,
