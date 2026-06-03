@@ -66,7 +66,7 @@ export const ASSETS = {
       radius: 0.6,
       speed: {
         inAir: 30.0,
-        onGround: 45.0,
+        onGround: 70.0,
         boostMultiplier: 15.0
       },
       jumpHeight: 7.0,
