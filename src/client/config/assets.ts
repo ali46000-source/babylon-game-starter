@@ -873,7 +873,7 @@ export const ASSETS = {
         BLUR: 0.2,
         TYPE: 'SPHERE' satisfies SkyType
       },
-      spawnPoint: new BABYLON.Vector3(0, 152, -20),
+      spawnPoint: new BABYLON.Vector3(0, 150, -20),
       spawnRotation: new BABYLON.Vector3(0, 0, 0)
     },
   items: [
@@ -889,8 +889,8 @@ export const ASSETS = {
           itemEffectKind: 'gamma',
           instances: [
             {
-              position: new BABYLON.Vector3(-15, 0.9, 5),
-              scale: 1.0,
+              position: new BABYLON.Vector3(5, 150.01, -20),
+              scale: 5.0,
               rotation: new BABYLON.Vector3(0, 0, 0),
               mass: 500,
               friction: 0.9,
