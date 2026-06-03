@@ -873,7 +873,7 @@ export const ASSETS = {
         BLUR: 0.2,
         TYPE: 'SPHERE' satisfies SkyType
       },
-      spawnPoint: new BABYLON.Vector3(0, 120, -20),
+      spawnPoint: new BABYLON.Vector3(0, 0, -20),
       spawnRotation: new BABYLON.Vector3(0, 0, 0)
     },
   items: [
