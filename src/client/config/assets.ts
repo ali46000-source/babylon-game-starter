@@ -889,7 +889,7 @@ export const ASSETS = {
           itemEffectKind: 'gamma',
           instances: [
             {
-              position: new BABYLON.Vector3(5, 150.01, -20),
+              position: new BABYLON.Vector3(50, 150, -20),
               scale: 5.0,
               rotation: new BABYLON.Vector3(0, 0, 0),
               mass: 500,
