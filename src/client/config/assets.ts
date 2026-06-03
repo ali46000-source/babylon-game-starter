@@ -876,6 +876,35 @@ export const ASSETS = {
       spawnPoint: new BABYLON.Vector3(0, 152, -20),
       spawnRotation: new BABYLON.Vector3(0, 0, 0)
     },
+  items: [
+        {
+          name: 'Gamma Crystal',
+          url: 'https://raw.githubusercontent.com/EricEisaman/assets/main/items/gamma_crystal.glb',
+          collectible: true,
+          creditValue: 500,
+          minImpulseForCollection: 0.3,
+          inventory: true,
+          thumbnail:
+            'https://raw.githubusercontent.com/EricEisaman/assets/main/items/gamma-crystal.png',
+          itemEffectKind: 'gamma',
+          instances: [
+            {
+              position: new BABYLON.Vector3(-15, 0.9, 5),
+              scale: 1.0,
+              rotation: new BABYLON.Vector3(0, 0, 0),
+              mass: 500,
+              friction: 0.9,
+              instanceName: 'crystal-1'
+            },
+            {
+              position: new BABYLON.Vector3(-28, 0.9, 5),
+              scale: 1.0,
+              rotation: new BABYLON.Vector3(0, 0, 0),
+              mass: 500,
+              friction: 0.9
+            }
+          ]
+        },
     {
       name: 'The Cave',
       locked: true,
