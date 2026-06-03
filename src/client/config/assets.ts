@@ -60,7 +60,7 @@ export const ASSETS = {
         walk: 'walk',
         jump: 'jump'
       },
-      scale: 2,
+      scale: 1.3,
       mass: 1.0, // Standard weight
       height: 1.8,
       radius: 0.6,
