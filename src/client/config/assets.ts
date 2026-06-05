@@ -863,7 +863,7 @@ export const ASSETS = {
       model:
         'https://raw.githubusercontent.com/EricEisaman/game-dev-1a/main/assets/models/environments/mansion/mansion.glb',
       lightmap: '',
-      scale: 10,
+      scale: 35,
       lightmappedMeshes: EMPTY_LIGHTMAPPED_MESHES,
       physicsObjects: EMPTY_PHYSICS_OBJECTS,
       sky: {
