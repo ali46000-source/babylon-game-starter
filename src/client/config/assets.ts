@@ -160,7 +160,7 @@ export const ASSETS = {
         jump: 'jump'
       },
       scale: 1.5.0,
-      mass: 10.0, // High mass for Hulk character
+      mass: 1.0, // Standard weight
       height: 2.55,
       radius: 0.95,
       speed: {
