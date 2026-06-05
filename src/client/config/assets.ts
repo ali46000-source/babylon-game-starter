@@ -63,7 +63,7 @@ export const ASSETS = {
       scale: 1,
       mass: 1.0, // Standard weight
       height: 1.8,
-      radius: 150,
+      radius: 1,
       speed: {
         inAir: 90.0,
         onGround: 110.0,
