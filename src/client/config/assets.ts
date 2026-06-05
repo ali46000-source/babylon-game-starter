@@ -159,16 +159,16 @@ export const ASSETS = {
         walk: 'run',
         jump: 'jump'
       },
-      scale: 2.0,
+      scale: 1.5.0,
       mass: 10.0, // High mass for Hulk character
       height: 2.55,
       radius: 0.95,
       speed: {
         inAir: 30.0,
-        onGround: 25.0,
-        boostMultiplier: 8.0
+        onGround: 90.0,
+        boostMultiplier: 65.0
       },
-      jumpHeight: 11, // Lower jumps
+      jumpHeight: 79, // Lower jumps
       rotationSpeed: 0.04, // Slower rotation
       rotationSmoothing: 0.25, // More smoothing for sluggish feel
       animationBlend: 200,
