@@ -168,7 +168,7 @@ export const ASSETS = {
         onGround: 120.0,
         boostMultiplier: 50.0
       },
-      jumpHeight: 50, // big jumps
+      jumpHeight: 50, // higher jumps
       rotationSpeed: 0.04, // Slower rotation
       rotationSmoothing: 0.25, // More smoothing for sluggish feel
       animationBlend: 200,
