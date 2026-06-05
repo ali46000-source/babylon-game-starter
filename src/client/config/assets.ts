@@ -170,7 +170,7 @@ export const ASSETS = {
       },
       jumpHeight: 50, // higher jumps
       rotationSpeed: 0.04, // Slower rotation
-      rotationSmoothing: 0.25, // More smoothing for sluggish feel
+      rotationSmoothing: 0.2,
       animationBlend: 200,
       jumpDelay: 200,
       friction: 0.55
