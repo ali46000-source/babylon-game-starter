@@ -153,7 +153,7 @@ export const ASSETS = {
       name: 'Hulk',
       model:
         'https://raw.githubusercontent.com/EricEisaman/game-dev-1a/main/assets/models/characters/hulk/hulk.glb',
-      locked: true,
+      locked: false,
       animations: {
         idle: 'idle',
         walk: 'run',
