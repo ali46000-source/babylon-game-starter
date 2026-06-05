@@ -51,7 +51,7 @@ const LEVEL_TEST_PHYSICS_OBJECTS = [
 export const ASSETS = {
   CHARACTERS: [
     {
-      name: 'Red',
+      name: ' Big Red',
       model:
         'https://raw.githubusercontent.com/EricEisaman/game-dev-1a/main/assets/models/characters/amongUs/red.glb',
       locked: false,
