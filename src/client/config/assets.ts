@@ -875,6 +875,10 @@ export const ASSETS = {
       },
       spawnPoint: new BABYLON.Vector3(0, 15, -20),
       spawnRotation: new BABYLON.Vector3(0, 0, 0)
+      fog: {scene.fog = new THREE.Fog(
+    0xcfd8dc, // light gray-blue color
+    50,       // start distance
+    300       // end distance}),
     },
     {
       name: 'The Cave',
